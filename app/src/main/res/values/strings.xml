@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Android Level One</string>
+    <string name="one"><![CDATA[1 <small><sub>+</sub></small>]]></string>
+    <string name="two"><![CDATA[2 <small><sub>ABC</sub></small>]]></string>
+    <string name="three"><![CDATA[3 <small><sub>DEF</sub></small>]]></string>
+    <string name="four"><![CDATA[4 <small><sub>GHI</sub></small>]]></string>
+    <string name="five"><![CDATA[5 <small><sub>JKL</sub></small>]]></string>
+    <string name="six"><![CDATA[6 <small><sub>MNO</sub></small>]]></string>
+    <string name="seven"><![CDATA[7 <small><sub>PQRS</sub></small>]]></string>
+    <string name="eight"><![CDATA[8 <small><sub>TUV</sub></small>]]></string>
+    <string name="nine"><![CDATA[9 <small><sub>WXYZ</sub></small>]]></string>
+    <string name="zero"><![CDATA[0 <small><sub>+</sub></small>]]></string>
+    <string name="star"><![CDATA[*]]></string>
+    <string name="has"><![CDATA[#]]></string>
+</resources>
