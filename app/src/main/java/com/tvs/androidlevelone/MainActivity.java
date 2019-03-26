@@ -32,10 +32,8 @@ public class MainActivity extends AppCompatActivity {
                         startActivity(intent);
                     }else Toast.makeText(MainActivity.this, "Enter username and password", Toast.LENGTH_SHORT).show();
                 }   else{
-                    Toast toast = new Toast(getApplicationContext());
-                    toast.setDuration(Toast.LENGTH_SHORT);
+                    Toast toast = Toast.makeText(getApplicationContext(),"Please Enter admin and 12345",Toast.LENGTH_SHORT);
                     toast.setGravity(Gravity.CENTER,0,0);
-                    toast.setText("Please Enter admin and 12345");
                     toast.show();
                 }
             }
